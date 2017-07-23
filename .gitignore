@@ -1,0 +1,9 @@
+/bin
+/include
+/lib
+/local
+/share
+/pip-selfcheck.json
+/foo.html
+*.pyc
+/data
